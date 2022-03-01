@@ -24,7 +24,7 @@ git init
 ```
 4. Then clone this repository in your initialized repo.
 ```sh
-git clone https://github.com/MohMaya/aspire-app-assignment.git
+git clone https://github.com/VishalBumpy/aspire-app-assignment.git
 ```
 5. Now run the following commands to set up Node Modules required for the project.
 ```
